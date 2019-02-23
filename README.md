@@ -1,0 +1,2 @@
+# Face-Recognition-Project-using-opencv-Machine-Learning-KNN-
+This project visualize face using opencv (haarcascade) and store it,After that it load each face data one by one and tells us  who is present in front of screen using webcam that totally depend on your generated face data,for this project you need library such as opencv ,sklearn to import knn (here i code knn from scratch),face HaarCascade file which i hv attached with reprository
